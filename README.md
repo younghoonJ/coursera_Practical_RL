@@ -5,5 +5,6 @@ Coursera [Practical Reinforcement Learning](https://www.coursera.org/learn/pract
 
 ## Syllabus
 - Week 1:
-  - 
-  - deep_crossentropy_method
+  - OpenAI Gym
+  - Cross-entropy method
+  - Cross-entropy method: going deeper
